@@ -20,3 +20,13 @@ I'm **Dida**, a Software Engineer focused on building modern web, mobile, backen
 - 💻 Working with JavaScript, React, Node.js, Flutter, Go & PostgreSQL
 - ⚙️ Interested in Backend, DevOps, APIs & scalable systems
 - 📚 Informatics student — always learning and building
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,flutter,dart,go,postgres,redis,docker,git,github,vscode&perline=8)](https://skillicons.dev)
+
+</div>
