@@ -15,7 +15,7 @@
 
 <br>
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<!-- ===================== CONTRIBUTION ===================== -->
 
 ## 🐍 Contribution Activity
 
@@ -23,19 +23,55 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/didafast/didafast/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/didafast/didafast/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/didafast/didafast/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/didafast/didafast/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="DidaFast Contribution Snake"
-      src="https://raw.githubusercontent.com/didafast/didafast/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/didafast/didafast/output/github-contribution-grid-snake.svg"
       width="100%"
     />
   </picture>
 </p>
+
+<br>
+
+<!-- ===================== STATS ===================== -->
+
+## ⚡ GitHub Activity & Stats
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=didafast&theme=github_dark&animation=rgb-soft&duration=10"
+    width="100%"
+    alt="GitHub Activity"
+  />
+</p>
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=didafast&theme=github_dark&animation=draw&duration=3"
+    width="100%"
+    alt="Most Commit Language"
+  />
+</td>
+
+<td width="50%" align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=didafast&theme=github_dark&utcOffset=7&animation=load&duration=3"
+    width="100%"
+    alt="Productive Time"
+  />
+</td>
+
+</tr>
+</table>
 
 <br>
 
