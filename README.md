@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="DidaFast Banner" />
+</p>
+
+<br>
+
 <div align="center">
 
 # 👋 Hi, I'm Dida
